@@ -1,1 +1,1 @@
-![dth99](/workspaces/dsa/misc/Screenshot 2023-11-11 101916.png)
+![dth99](https://github.com/dth99/dsa/blob/main/misc/Screenshot%202023-11-11%20101916.png)
