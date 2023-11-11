@@ -18,6 +18,8 @@ int trailingZeroes(int n) {
 // efficient way
 // the idea is to count how many 2, 5, we have in prime factorization in given in factorialization
 // interersting fact number of 5s are going to be less the no. of 2s
+
+// --------- this solution solve the major issue of overflow ---- 
 int trailingZeroes1(int n) {
 
         int zeroes=0;

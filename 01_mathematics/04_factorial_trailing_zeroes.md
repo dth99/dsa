@@ -9,3 +9,6 @@
 ### 25 has has two 5 factors
 
 ![dth99](https://github.com/dth99/dsa/blob/main/misc/ss.png)
+
+
+## TIme complexity  = O(log n)
