@@ -1,1 +1,1 @@
-![dth99](misc/Screenshot 2023-11-11 101916.png)
+![dth99](/workspaces/dsa/misc/Screenshot 2023-11-11 101916.png)
