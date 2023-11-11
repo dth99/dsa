@@ -7,3 +7,5 @@
 ### after every 5 numbers, their is atleast one 5 factor 
 ### [n/5]
 ### 25 has has two 5 factors
+
+![dth99](https://github.com/dth99/dsa/blob/main/misc/ss.png)
