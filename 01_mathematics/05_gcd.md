@@ -8,3 +8,9 @@ a=gx, b=gy and GCD(x,y)
 (a-b) = g(x-y)
 
 ![dth99](https://github.com/dth99/dsa/blob/main/misc/ss1.png)
+
+
+
+## optimazed Implemention
+
+![dth99](https://github.com/dth99/dsa/blob/main/misc/ss3.png)
