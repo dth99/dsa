@@ -12,9 +12,16 @@ int gcd(int a,int b){
      }
      return gcd;
 }
+// optimal 
+int gcd1(int a,int b){
+    if(b==0){
+        return a;
+    }
+    return gcd(b,a%b);
+}
 int main()
 {
-   int a=7, b=13;
-   cout<<gcd(a,b)<<endl;
+   int a=4, b=6;
+   cout<<gcd1(a,b)<<endl;
     return 0;
 }
