@@ -5,3 +5,5 @@
 ## more efficient 
 
 ![dth99](https://github.com/dth99/dsa/blob/main/misc/ss4.png)
+#### example
+![dth99](https://github.com/dth99/dsa/blob/main/misc/ss7.png)
