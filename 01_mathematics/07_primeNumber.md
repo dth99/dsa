@@ -1,1 +1,5 @@
+### Efficient 
+####  for(int i=2;i*i<n;i++){
 ![dth99](https://github.com/dth99/dsa/blob/main/misc/ss%205.png)
+
+## more efficient 
